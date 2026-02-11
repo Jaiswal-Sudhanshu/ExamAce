@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18558185424",
+    "project_id": "examace-94f0b",
+    "storage_bucket": "examace-94f0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18558185424:android:ef1fe89bb3e2ee767cd3d5",
+        "android_client_info": {
+          "package_name": "com.example.examace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdPYEFNOahUjcIZeUvWSWulX7CsXEAsuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
